@@ -16,7 +16,7 @@ function Navbar() {
                 <p className='nav-buttons'>KIDS</p>
                 <p className='nav-buttons'>DVD</p>
             </div>
-            <img className='avatar' src="https://tse4.mm.bing.net/th?id=OIP.OvsgUUddji6xRFr7ZZ146wHaHa&pid=Api&P=0" alt="avatar" />
+            <img className='avatar' src="https://i.pinimg.com/originals/0d/dc/ca/0ddccae723d85a703b798a5e682c23c1.png" alt="avatar" />
         </div>
     )
 }
